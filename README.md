@@ -1,2 +1,5 @@
 # OpenGL_Game_Engine_Demo
-practice with OpenGL
+Practice with OpenGL
+
+
+Uses tinyobjloader by Syoyo Fujita and many contributors.
